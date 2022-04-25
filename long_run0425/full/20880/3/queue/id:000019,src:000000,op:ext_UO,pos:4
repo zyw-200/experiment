@@ -1,0 +1,3 @@
+GET /proc/sys/dev/usb/usbProductID 1
+Cot
+

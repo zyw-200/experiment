@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+AcceptGET: text1html,application/xhtml+xml,appl/bin:/usr/bin:/usr/local/bin:/sbin/:/usr/sbinicathonPxml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,ez;q=0.5
+Accept-Efgoding: gzip, de1
+Accept: 
+Cokn:/sbinection: keep-alive
+Upgrade-Insesure-ReqGETts: 1
+Cookie: uid=~FYCmNixEa
+

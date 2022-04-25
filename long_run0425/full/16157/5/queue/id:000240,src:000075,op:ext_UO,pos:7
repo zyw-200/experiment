@@ -1,0 +1,2 @@
+GET          <NewRegion>%s</NewRegion>p,*/*;q=0.8
+A

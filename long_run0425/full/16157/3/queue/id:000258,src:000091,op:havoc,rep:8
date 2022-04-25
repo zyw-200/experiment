@@ -1,0 +1,9 @@
+GET / HTTP/1.1
+Host: 19].168.0.1
+Ac@ept: Uext/html,application/xhtml+xml,applicatiLn/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;qC0.5
+Accept-Encoding: gzip$ deflat|
+SOAPACTION: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

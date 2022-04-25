@@ -1,0 +1,2 @@
+GET /%%s/dir.%d.%lds;%sx:%02x:%02x
+A

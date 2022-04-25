@@ -1,0 +1,10 @@
+GET /currentsetting.htm HTTP/1.1
+Host: 192.168+0.1
+Accept: text/html,application/xhtml+xml,applIcation/xml;q=0.9,image/webp,*/*;q=0.85
+Accept-Encoding: gzip, deflate
+Connecon: keep-alive
+Up-alive
+Upgrade-Insecure-Repgrade-Insecure-Requests: 1
+Cook.168.0.1
+Accept--------------------------------: tejt/htmlie: uid=CFYCmNixEa
+

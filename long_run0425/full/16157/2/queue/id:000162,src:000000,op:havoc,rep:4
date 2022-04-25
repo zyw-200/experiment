@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: dext/html,application/xhtml+xml,application/x
+Accept: text/htmml;q=0.9,image/webp,*/*;q=0.8
+Accept-LanMuage: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connect92.168.0.1
+Accept: dexe-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

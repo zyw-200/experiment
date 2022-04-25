@@ -1,0 +1,9 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accepg:text/html,applplication/xml;q=0.9,image/werp,*/*;q=0.8
+Accept-:anguage: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Con“ection: 																							kemp-alive
+Upgraqe-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

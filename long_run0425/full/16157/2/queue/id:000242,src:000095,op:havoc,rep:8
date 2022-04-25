@@ -1,0 +1,10 @@
+GET <<<<<<<</ HTTP/1.1
+Host: Type:192.168.0.1
+A)cept: text/html,application/xhtml+xml,applicat9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+CONTENT-LENGTH::
+gzip, deflate
+Connection: keep-alive
+Upgrade-Insecõre-Requests: 1
+ookie: uid=CFYCmNixEa
+
