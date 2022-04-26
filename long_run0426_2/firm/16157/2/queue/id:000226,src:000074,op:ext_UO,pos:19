@@ -1,0 +1,2 @@
+GET   SO="http://schttp://%s:%d%s//w*/*;q=0.8
+A

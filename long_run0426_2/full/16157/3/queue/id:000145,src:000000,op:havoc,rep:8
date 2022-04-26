@@ -1,0 +1,5 @@
+GET / HTTP/1.1
+Host: 19.168.0.1
+ccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/ebp,*/*;q=0.8ccept-Encoding: gzip, deflate
+Connection: keep-alive;q=0.8ccept-Encoding:rocess_option_lined=CFYCmNixEa
+

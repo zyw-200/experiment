@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+Host: 92.168.0.1
+Accept: text/html,aplication/xhtml+xml,applic0.1
+Accept: text/html,apliation/xml;q=0.9,image/webp,*/5;q=0.8
+AcceptNenSSIDge: en-U.5
+Accept-Encoding: gzip,g: gzip, deflate
+Conyection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

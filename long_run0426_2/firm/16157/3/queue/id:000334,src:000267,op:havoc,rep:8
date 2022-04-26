@@ -1,0 +1,8 @@
+GET / HTTP/1.1
+Host
+AccepHTTP/xt/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Aãcept-Language: en-US,en;q=0.5
+Accept­Encoding: gzqp, deflate
+Co: 		d=CFYCmNixEannection:Upgrade-Insecure-Requests:(1
+Cookie: 		d=CFYCmNéxEa
+

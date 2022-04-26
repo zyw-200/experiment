@@ -1,0 +1,8 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: Âext/html,app$$$$$$$$$$$$lication/xhtml+xml,appIication/xml;q=0.9,imagapplication/xml;q=0.9,imagee/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoe-Inyecure-Requests: 
+ding: gzip, dlive
+Upgrade-Inyecure-Requests: 
+

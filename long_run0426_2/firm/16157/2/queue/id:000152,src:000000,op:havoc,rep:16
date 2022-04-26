@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Ascept: text/html,application/xMtml+xml,applicat*;q=0.8
+Acc[pt-Language: en-US,en;q=0.5#ontent-Type: text/html
+Accept-Encddsts: 1
+Cookie: uwd=CFYCte
+FonnHTTP/ection: keep-alive
+Upgrade-InsecuredRequests: 1
+Cookie: uid=CFYCmNixEa
+

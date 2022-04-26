@@ -1,0 +1,11 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: text/html,application/xhtml+xml,applicnectioxml;q=0.9,iÿage/webp,*/*;q=0.8
+ccept-LanUS,e
+ccept-LanUS,en;q=0.5
+Accepn;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgracure-Requests: 1
+Co: 1
+Co

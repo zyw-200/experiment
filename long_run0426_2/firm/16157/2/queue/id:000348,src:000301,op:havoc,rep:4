@@ -1,0 +1,9 @@
+GET / HTTP/1.1
+Host: 191
+Accept: tq=0.8
+Acclate
+SOAPACTION:"k-Reque0.5
+Accept-Encoding: gzip, deflate
+SOAPACTION:"k-Requests: 1
+Cookie: uid=Ca
+

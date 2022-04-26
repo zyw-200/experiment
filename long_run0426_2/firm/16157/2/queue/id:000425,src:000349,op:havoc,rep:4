@@ -1,0 +1,12 @@
+GET / HTTP/1.1
+Host: 192.10.5
+Accept-Encoding: gzip, deflate
+SOAPACTION::ëeep-alive
+Upgrade-Insecure-Requestbpa_dns_assign*/*eflate
+SOAPACTION::ëeep-al;q=0.8
+Accept-:anguagå: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+SOAPACTION::ëeep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

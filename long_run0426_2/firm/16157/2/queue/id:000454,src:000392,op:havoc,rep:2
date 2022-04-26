@@ -1,0 +1,34 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept‚e
+SOAPACTIion/xml;q=0.9,image/webp,*/*fla‚e
+SOAPACTION: keep-alivT / HTTP/1.1
+Host: 192.168.0.1
+Accept‚e
+SOAPACTIion/xml;q=0.9,image/webp,*/*fla‚e
+SOAPACTION: keep-alive
+;q=0.8
+Accept-:anguage: en-US,en;q=0.5
+Accept-Encoding: gzip, defla‚e
+SOAPACTIONON:: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*fla‚e
+SOAPACTION: keep-alive
+;q=0.8
+Accept-:anguage: en-US,en;q=0.5
+Accept-Encoding: gzip, defla‚e
+SOAPACTION: keep-alive
+Upgrad
+SOAPACTION: keep-alive
+Upkie: uid=e
+;q=0.8
+Accept-:anguage: en-US,en;q=0.5
+Accept-Encoding: gzip, defla‚e
+SOAPACTIONON:: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*fla‚e
+SOAPACTION: keep-alive
+;q=0.8
+Accept-:anguage: en-US,en;q=0.5
+Accept-Encoding: gzip, defla‚e
+SOAPACTION: keep-alive
+Upgrad
+SOAPACTION: keep-alive
+Upkie: uid=CFYCmNixEa
+

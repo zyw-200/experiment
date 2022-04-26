@@ -1,0 +1,11 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: tex
+Connection: keep-alive+xml,applicaÅion/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: g/www/cgi-bin%szip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: udeflate
+Connection: keep-alid=CFYCmNixEa
+
